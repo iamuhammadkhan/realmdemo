@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Tasks Details-->
+        <!--Task Details-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="RealmDemo" customModuleProvider="target" sceneMemberID="viewController">
@@ -47,7 +47,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Tasks Details" id="dKx-h7-ND5">
+                    <navigationItem key="navigationItem" title="Task Details" id="dKx-h7-ND5">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="pAW-vq-HTO">
                             <connections>
                                 <action selector="addBtn:" destination="BYZ-38-t0r" id="7Nv-N6-zMC"/>
